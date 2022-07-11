@@ -1,6 +1,8 @@
 Метапрограммирование на C++
 ============================
 
+Репозиторий архивирован, курс переехал [сюда](https://github.com/Mrkol/metaprogramming-course).
+
 [Презентации](https://drive.google.com/drive/folders/1JUSjHeZMyicojhJ7ebN3aStnU7VxqZEq?usp=sharing)
 
 [Задания](https://github.com/Mrkol/mipt-metaprogramming-2021/tree/master/tasks)
